@@ -1,2 +1,3 @@
-# Songs-Classification
-Classification of songs into genres using Machine Learning - Group 600
+# Introduction
+The project involves building a machine learning solution that is capable of identifying the music genres of songs. The songs had to be classified into 10 distinct labels. 
+ 
