@@ -6,4 +6,4 @@ The project involves building a machine learning solution that is capable of ide
 Python 3.6.4
 
 #### Python Libraries 
-scikit learn,numpy,pandas,matplotlib.
+scikit learn, numpy, pandas, matplotlib.
